@@ -31,12 +31,12 @@ I'm always looking for new challenges to increase my cultural background and imp
 
 ### 🤝 Let's Connect
 
-- 🌐 [LinkedIn/FabrizioMerlo](https://www.linkedin.com/in/fabrizio-merlo/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizio-merlo/)
 
 ### 📬 Contact Me
 
 - 📧 Email:
-  - Personal: [fabriziomerlo99@gmail.com](mailto:fabriziomerlo99@gmail.com)
+  - Personal: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fabriziomerlo99@gmail.com)
   - UNIMIB: [f.merlo8@campus.unimib.it](mailto:f.merlo8@campus.unimib.it)
 
 ### 🎉 Thanks for Visiting
