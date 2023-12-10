@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Fabrizio Merlo
+# :wave: Hi, I’m Fabrizio Merlo
 
 ## 🎓 Data Engineer Intern at Amazon | 💻 Data Scientist Enthusiast
 
