@@ -8,9 +8,9 @@ I'm always looking for new challenges to increase my cultural background and imp
 
 ### 🔍 About Me
 
-- 📚 I am a computer science student, currently attending the last year of my master's degree in Lugano at [USI](https://www.usi.ch) through a Double Degree program in collaboration with the [University of Milan-Bicocca](https://www.unimib.it/).
-- 🌐 I am very passionate about my studies and I approach every project with the utmost determination and attention to detail. My passion drives me to explore every aspect of my field and seek new challenges.
-- 🚀 Tech enthusiast with a keen interest in the field of Data Science 📊 as well as Software Engineering ⚙️.
+- 📚 I have a bachelor's degree in computer science and a master's degree in data science from the university[University of Milano-Bicocca](https://www.unimib.it/) and currently work in Luxembourg for Amazon as an Intern Data Engineer.
+- 🌐 I have a strong enthusiasm for my academic pursuits, and I tackle each project with unwavering determination and meticulous attention to detail. This passion motivates me to delve into various facets of my field and actively seek out new challenges.
+- 🚀 Tech enthusiast with a keen interest in the field of Data Science 📊.
 - 💻 Proficient in a variety of programming languages, including but not limited to:
   - 🐍 Python
   - ☕ Java
@@ -31,7 +31,7 @@ I'm always looking for new challenges to increase my cultural background and imp
 
 ### 🤝 Let's Connect
 
-- 🌐 [LinkedIn/DavideGrandesso](https://www.linkedin.com/in/DavideGrandesso/)
+- 🌐 [LinkedIn/FabrizioMerlo](https://www.linkedin.com/in/fabrizio-merlo/)
 
 ### 📬 Contact Me
 
