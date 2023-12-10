@@ -10,6 +10,7 @@ I'm always looking for new challenges to increase my cultural background and imp
 
 - 📚 I have a bachelor's degree in computer science and a master's degree in data science from the university [University of Milano-Bicocca](https://www.unimib.it/) and currently work in Luxembourg for Amazon as an Intern Data Engineer.
 - 🌐 I have a strong enthusiasm for my academic pursuits, and I tackle each project with unwavering determination and meticulous attention to detail. This passion motivates me to delve into various facets of my field and actively seek out new challenges.
+- 🏀 I love sports
 - 🚀 Tech enthusiast with a keen interest in the field of Data Science 📊.
 - 💻 Proficient in a variety of programming languages, including but not limited to:
   - 🐍 Python
@@ -35,7 +36,7 @@ I'm always looking for new challenges to increase my cultural background and imp
 
 ### 📬 Contact Me
 
-- 📧 Email:
+- Email:
   - Personal: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fabriziomerlo99@gmail.com)
   - UNIMIB: [f.merlo8@campus.unimib.it](mailto:f.merlo8@campus.unimib.it)
 
