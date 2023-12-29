@@ -26,9 +26,9 @@ I'm always looking for new challenges to increase my cultural background and imp
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dadegrande99&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dracula&)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriziomerlo&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=dracula&)
 
-![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dadegrande99&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriziomerlo&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 📬 Contacts
