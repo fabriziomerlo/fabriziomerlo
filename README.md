@@ -1,6 +1,6 @@
 # :wave: Hi, I’m Fabrizio Merlo
 
-## 🎓 Data Engineer Intern at Amazon | 💻 Data Scientist Enthusiast
+## 🎓 Data Engineer at Amazon | 💻 Data Scientist Enthusiast
 
 Welcome to my GitHub profile! I have been passionate about computers and programming since childhood, and my interest in the field further intensified during my university courses where I was introduced to the world of data.
 I'm always looking for new challenges to increase my cultural background and improve my experience in the field.
